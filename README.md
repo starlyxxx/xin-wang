@@ -60,8 +60,9 @@ Also see my papers at <a href="https://scholar.google.com/citations?user=b1AVqq4
 I have been fortunate to work with some great students.
 
 #### Current students
+- Shuhe Cao, 202000460014  _at_ mail.sdu.edu.cn, Master student at Shandong University (Fall 2024 - present)
 - Yue Huang, y-huang22 _at_ mails.tsinghua.edu.cn, Ph.D student at Tsinghua University (Fall 2022 - present)
-- Yunqing Bian, bianyunqing _at_ mail.sdu.edu.cn, master student at Shandong University (Fall 2022 - present)
+- Yunqing Bian, bianyunqing _at_ mail.sdu.edu.cn, Master student at Shandong University (Fall 2022 - Summer 2024)
 - Azim Khan, azimkhan22 _at_ umbc.edu, Ph.D student at UMBC (Spring 2022 – present)
 - <a href="https://bdal.umbc.edu/people/xingyanli/">Xingyan Li</a>, xingyanli _at_ umbc.edu, Ph.D student at UMBC (Fall 2021 – present)
 - <a href="https://bdal.umbc.edu/people/seraj-mostafa//">Seraj Mostafa</a>, s172 _at_ umbc.edu, Ph.D student at UMBC (Fall 2021 – present)
