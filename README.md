@@ -12,7 +12,7 @@
 
 
 ## Short Bio
-Dr. Xin Wang is currently an assistant professor at School of Cryptologic Science and Engineering, Shandong University. Xin received her Ph.D. in <a href="https://informationsystems.umbc.edu/">Information Systems</a> from University of Maryland, Baltimore County in Aug 2022, advised by <a href="https://bdal.umbc.edu/people/jianwu/">Dr. Jianwu Wang</a>. Xin started her Ph.D. study in Fall 2018 in Data Science, worked as a Research Assistant in the Distributed Systems and Security Lab until Fall 2020, and worked in the <a href="https://bdal.umbc.edu/">Big Data Analytics Lab</a> as a Research Assistant. Her research interests include distributed systems security, blockchains, big data analytics, edge-cloud computing and applied cryptography.
+Dr. Xin Wang is currently an assistant professor at School of Cryptologic Science and Engineering, Shandong University. She is also affiliated with State Key Laboratory of Cryptography and Digital Economy Security. She received her Ph.D. in <a href="https://informationsystems.umbc.edu/">Information Systems</a> from University of Maryland, Baltimore County in Aug 2022, advised by <a href="https://bdal.umbc.edu/people/jianwu/">Dr. Jianwu Wang</a>. Dr. Wang's research interests include distributed systems security, blockchains, big data analytics, edge-cloud computing and applied cryptography.
 
 ## Education
 - [2018 - 2022] Ph.D. in Information Systems, University of Maryland, Baltimore County, U.S.A.
@@ -20,39 +20,34 @@ Dr. Xin Wang is currently an assistant professor at School of Cryptologic Scienc
 
 ## Employment
 - [Nov 2025 - present] Assistant Professor at School of Cryptologic Science and Engineering, Shandong University, Jinan, Shandong, China.
+- [Nov 2025 - present] State Key Laboratory of Cryptography and Digital Economy Security, Shandong University, Jinan, Shandong, China
 - [Nov 2022 - Nov 2025] Postdoctoral Fellow at Institute for Advanced Study, Tsinghua University, Beijing, China.
-- [Aug 2021 - May 2022] Research Assistant at Center for Real-time Distributed Sensing and Autonomy, University of Maryland, Baltimore County, MD, U.S.A.
-- [Aug 2020 - May 2022] Graduate Research Assistant at Big Data Analytics Lab, University of Maryland, Baltimore County, MD, U.S.A.
-- [Aug 2019 - May 2022] Treasurer at Chinese Student and Scholar Association (CSSA), University of Maryland, Baltimore County, MD, U.S.A.
-- [Jan 2019 - Jan 2021] Research Assistant and Program Developer at Softhread Inc., Baltimore, MD, U.S.A.
-- [Aug 2018 - Aug 2020] Graduate Research Assistant at Distributed Systems and Security Lab, University of Maryland, Baltimore County, MD, U.S.A.
 
 ## Awards and Honors
 - Shuimu Scholar Program, Tsinghua University, Jul 2023
 - Student Travel Award, IEEE International Conference on Big Data, Dec 2021
 
 ## Publication
-
 Also see my papers at <a href="https://scholar.google.com/citations?user=b1AVqq4AAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Journal
-- [j6] **Xin Wang**, Sisi Duan, and Haibin Zhang. "Practical Signature-Free Multivalued Validated Byzantine Agreement and Asynchronous Common Subset in Constant Time." IEEE Transactions on Computers. (2025). DOI: 10.1109/TC.2025.3607476.
-- [j5] Yunqing Bian<sup>*</sup>, **Xin Wang**, Jian Jin, Zhenzhen Jiao, and Sisi Duan. "Flexible and Scalable Decentralized Identity Management for Industrial Internet of Things", 2024 IEEE Internet of Things Journal (IOTJ), 2024, DOI: 10.1109/JIOT.2024.3399535. [<a href="https://ieeexplore.ieee.org/document/10557564">link</a>] (IF 8.2)
-- [j4] **Xin Wang**, Pei Guo, Xingyan Li<sup>*</sup>, Aryya Gangopadhyay, Carl E. Busart, Jade Freeman and Jianwu Wang. “Reproducible and Portable Big Data Analytics in Cloud.”, IEEE Transactions on Cloud Computing (February 2023), DOI: 10.1109/TCC.2023.3245081. [<a href="https://ieeexplore.ieee.org/abstract/document/10045022">link</a>] (IF 5.6)
-- [j3] **Xin Wang**, Azim Khan<sup>*</sup>, Jianwu Wang, Aryya Gangopadhyay, Carl E. Busart and Jade Freeman. “An Edge-Cloud Integrated Framework for Flexible and Dynamic Stream Analytics.”, Future Generation Computer Systems, 2022. DOI: 10.1016/j.future.2022.07.023. [<a href="https://www.sciencedirect.com/science/article/am/pii/S0167739X22002576">link</a>] (IF 7.3)
-- [j2] Wanghu Chen, Chenhan Zhai, **Xin Wang**, Jing Li and Pengbo Lv. “GCN and GRU based Intelligent Model for Temperature Prediction of Local Heating Surfaces.”, IEEE Transactions on Industrial Informatics, DOI: 10.1109/TII.2022.3193414. [<a href="https://ieeexplore.ieee.org/abstract/document/9839534/">link</a>] (IF 11.6)
-- [j1] **Xin Wang**, Sisi Duan, James R. Clavin, and Haibin Zhang. “BFT in Blockchains: From Protocols to Use Cases.” ACM Comput. Surv. (2021). DOI: 10.1145/3503042. [<a href="https://dl.acm.org/doi/abs/10.1145/3503042">link</a>] (IF 14.3)
+- [j6] **Xin Wang**, Sisi Duan, and Haibin Zhang. "Practical Signature-Free Multivalued Validated Byzantine Agreement and Asynchronous Common Subset in Constant Time." IEEE Transactions on Computers (TC). (2025). DOI: 10.1109/TC.2025.3607476. [<a href="https://ieeexplore.ieee.org/abstract/document/11154867">link</a>]
+- [j5] Yunqing Bian<sup>*</sup>, **Xin Wang**, Jian Jin, Zhenzhen Jiao, and Sisi Duan. "Flexible and Scalable Decentralized Identity Management for Industrial Internet of Things", 2024 IEEE Internet of Things Journal (IOTJ), 2024, DOI: 10.1109/JIOT.2024.3399535. [<a href="https://ieeexplore.ieee.org/document/10557564">link</a>]
+- [j4] **Xin Wang**, Pei Guo, Xingyan Li<sup>*</sup>, Aryya Gangopadhyay, Carl E. Busart, Jade Freeman and Jianwu Wang. “Reproducible and Portable Big Data Analytics in Cloud.”, IEEE Transactions on Cloud Computing (February 2023), DOI: 10.1109/TCC.2023.3245081. [<a href="https://ieeexplore.ieee.org/abstract/document/10045022">link</a>] 
+- [j3] **Xin Wang**, Azim Khan<sup>*</sup>, Jianwu Wang, Aryya Gangopadhyay, Carl E. Busart and Jade Freeman. “An Edge-Cloud Integrated Framework for Flexible and Dynamic Stream Analytics.”, Future Generation Computer Systems (FGCS), 2022. DOI: 10.1016/j.future.2022.07.023. [<a href="https://www.sciencedirect.com/science/article/am/pii/S0167739X22002576">link</a>] 
+- [j2] Wanghu Chen, Chenhan Zhai, **Xin Wang**, Jing Li and Pengbo Lv. “GCN and GRU based Intelligent Model for Temperature Prediction of Local Heating Surfaces.”, IEEE Transactions on Industrial Informatics (TII), DOI: 10.1109/TII.2022.3193414. [<a href="https://ieeexplore.ieee.org/abstract/document/9839534/">link</a>]
+- [j1] **Xin Wang**, Sisi Duan, James R. Clavin, and Haibin Zhang. “BFT in Blockchains: From Protocols to Use Cases.” ACM Comput. Surv. (2021). DOI: 10.1145/3503042. [<a href="https://dl.acm.org/doi/abs/10.1145/3503042">link</a>]
 
 ### Conference Full Papers
-- [c9] **Xin Wang**, Haochen Wang, Haibin Zhang, and Sisi Duan. "Pando: Extremely Scalable BFT Based on Committee Sampling." Network and Distributed System Security (NDSS). 2026. DOI: 10.14722/ndss.2026.230273. (CCF A)
-- [c8] Yue Huang, **Xin Wang**, Haibin Zhang, and Sisi Duan. "Cross-Consensus Reliable Broadcast and its Applications." Network and Distributed System Security (NDSS). 2026. DOI: 10.14722/ndss.2026.230207. (CCF A)
-- [c7] **Xin Wang**, Shuhe Cao*, Keting Jia, Qidi You and Sisi Duan. "Lumi: Lightweight Blockchain Layer 2 Protocol from On-chain Coordination.". 45th IEEE International Conference on Distributed Computing Systems (ICDCS).
-- [c6] Xiao Sui, **Xin Wang**, and Sisi Duan. "Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time.", 46th IEEE Symposium on Security and Privacy. 2025. (CCF A)
-- [c5] Sisi Duan, **Xin Wang** and Haibin Zhang. "_FIN_: Practical Signature-Free Asynchronous Common Subset in Constant Time", Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS). 2023, pp. 815–829, DOI: 10.1145/3576915.3616633. [<a href="https://dl.acm.org/doi/abs/10.1145/3576915.3616633">link</a>] (CCF A)
-- [c4] James R. Clavin, Yue Huang, **Xin Wang**, Pradeep M. Prakash, Sisi Duan, Jianwu Wang, and Sean Peisert. “A Framework for Evaluating BFT,” 2021 IEEE 27th International Conference on Parallel and Distributed Systems (ICPADS), 2021, pp. 193-200, DOI: 10.1109/ICPADS53394.2021.00030. [<a href="https://ieeexplore.ieee.org/abstract/document/9763687/">link</a>]
-- [c3] Yusen Wu, Hao Chen, **Xin Wang**, Chao Liu, Phuong Nguyen and Yelena Yesha. "Tolerating Adversarial Attacks and Byzantine Faults in Distributed Machine Learning," 2021 IEEE International Conference on Big Data (Big Data), 2021, pp. 3380-3389, DOI: 10.1109/BigData52589.2021.9671583. [<a href="https://ieeexplore.ieee.org/abstract/document/9671583/">link</a>]
-- [c2] **Xin Wang**, Pei Guo and Jianwu Wang. "Large-Scale Causality Discovery Analytics as a Service," 2021 IEEE International Conference on Big Data (Big Data), 2021, pp. 3130-3140, DOI: 10.1109/BigData52589.2021.9671373. [<a href="https://ieeexplore.ieee.org/abstract/document/9671373/">link</a>]
-- [c1] Sisi Duan, Chao Liu, **Xin Wang**, Yusen Wu, Shuai Xu, Yelena Yesha, and Haibin Zhang. "Intrusion-Tolerant and Confidentiality-Preserving Publish/Subscribe Messaging," 2020 International Symposium on Reliable Distributed Systems (SRDS), 2020, pp. 319-328, DOI: 10.1109/SRDS51746.2020.00039. [<a href="https://ieeexplore.ieee.org/abstract/document/9252069/">link</a>]
+- [c9] **Xin Wang**, Haochen Wang, Haibin Zhang, and Sisi Duan. "Pando: Extremely Scalable BFT Based on Committee Sampling.", Network and Distributed System Security (NDSS). 2026. DOI: 10.14722/ndss.2026.230273. [<a href="https://eprint.iacr.org/2024/664">eprint</a>] (CCF A)
+- [c8] Yue Huang, **Xin Wang**, Haibin Zhang, and Sisi Duan. "Cross-Consensus Reliable Broadcast and its Applications.", Network and Distributed System Security (NDSS). 2026. DOI: 10.14722/ndss.2026.230207. [<a href="https://eprint.iacr.org/2025/1483">eprint</a>] (CCF A)
+- [c7] **Xin Wang**, Shuhe Cao*, Keting Jia, Qidi You and Sisi Duan. "Lumi: Lightweight Blockchain Layer 2 Protocol from On-chain Coordination.", 45th IEEE International Conference on Distributed Computing Systems (ICDCS). 2025, pp. 538-548, doi: 10.1109/ICDCS63083.2025.00059. [<a href="https://ieeexplore.ieee.org/document/11183727">link</a>]
+- [c6] Xiao Sui, **Xin Wang**, and Sisi Duan. "Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time.", 46th IEEE Symposium on Security and Privacy (S&P). 2025, pp. 1547-1565, doi: 10.1109/SP61157.2025.00244. [<a href="https://ieeexplore.ieee.org/document/11023373">link</a>] (CCF A)
+- [c5] Sisi Duan, **Xin Wang** and Haibin Zhang. "_FIN_: Practical Signature-Free Asynchronous Common Subset in Constant Time.", Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS). 2023, pp. 815–829, DOI: 10.1145/3576915.3616633. [<a href="https://dl.acm.org/doi/abs/10.1145/3576915.3616633">link</a>] (CCF A)
+- [c4] James R. Clavin, Yue Huang, **Xin Wang**, Pradeep M. Prakash, Sisi Duan, Jianwu Wang, and Sean Peisert. “A Framework for Evaluating BFT.”, 2021 IEEE 27th International Conference on Parallel and Distributed Systems (ICPADS), 2021, pp. 193-200, DOI: 10.1109/ICPADS53394.2021.00030. [<a href="https://ieeexplore.ieee.org/abstract/document/9763687/">link</a>]
+- [c3] Yusen Wu, Hao Chen, **Xin Wang**, Chao Liu, Phuong Nguyen and Yelena Yesha. "Tolerating Adversarial Attacks and Byzantine Faults in Distributed Machine Learning.", 2021 IEEE International Conference on Big Data (Big Data), 2021, pp. 3380-3389, DOI: 10.1109/BigData52589.2021.9671583. [<a href="https://ieeexplore.ieee.org/abstract/document/9671583/">link</a>]
+- [c2] **Xin Wang**, Pei Guo and Jianwu Wang. "Large-Scale Causality Discovery Analytics as a Service.", 2021 IEEE International Conference on Big Data (Big Data), 2021, pp. 3130-3140, DOI: 10.1109/BigData52589.2021.9671373. [<a href="https://ieeexplore.ieee.org/abstract/document/9671373/">link</a>]
+- [c1] Sisi Duan, Chao Liu, **Xin Wang**, Yusen Wu, Shuai Xu, Yelena Yesha, and Haibin Zhang. "Intrusion-Tolerant and Confidentiality-Preserving Publish/Subscribe Messaging.", 2020 International Symposium on Reliable Distributed Systems (SRDS), 2020, pp. 319-328, DOI: 10.1109/SRDS51746.2020.00039. [<a href="https://ieeexplore.ieee.org/abstract/document/9252069/">link</a>]
 
 ### Doctoral Dissertation
 **Xin Wang**. "Secure, Reproducible and Adaptive Machine Learning in Distributed Systems." PhD diss., University of Maryland, Baltimore County, 2022. Committee members: Dr. Jianwu Wang (chair), Dr. Sisi Duan, Dr. Aryya Gangopadhyay, Dr. Zhiyuan Chen, and Dr. Sanjay Purushotham. [<a href="https://www.proquest.com/openview/023dcad4685f43a35754d07b194d0152">link</a>]
